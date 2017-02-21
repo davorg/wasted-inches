@@ -1,0 +1,437 @@
+/*
+Theme Name: Spicy Typography
+Theme URI: http://www.divitodesign.com/2008/10/wordpress-theme-spicy-typography/
+Description: Free Wordpress Theme with nice typography by <a href="http://www.divitodesign.com/">DivitoDesign</a>.
+Version: 1.1
+Wordpress Version: 2.5 + 
+Author: Stefan Vervoort
+Author URI: http://www.divitodesign.com
+Tags: 2 columns, red, white, widget-ready, typography
+*/
+
+*,html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,label,fieldset,input,p,blockquote,th,td {
+margin:0;
+padding:0
+}
+
+a,a:hover {
+text-decoration:none
+}
+
+h1,h2,h3,h4,h5,h6 {
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:100%;
+font-weight:400
+}
+
+body {
+font-family:Arial, Helvetica, sans-serif
+}
+
+strong {
+font-weight:700
+}
+
+em {
+color:#000;
+font-style:italic
+}
+
+#wrapper {
+margin:0 auto;
+text-align:center;
+width:750px
+}
+
+#second-wrapper {
+text-align:left;
+width:100%
+}
+
+#header {
+margin-bottom:30px;
+margin-top:20px;
+text-align:center;
+width:100%
+}
+
+#header h2 {
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:450%;
+font-weight:400;
+letter-spacing:-0.03em
+}
+
+#header h2 a {
+color:#A00;
+text-decoration:none
+}
+
+#header h2 a:hover {
+color:#333
+}
+
+#header div.description {
+border-bottom:1px solid #a00;
+padding-bottom:30px;
+word-spacing:.5em
+}
+
+#container {
+float:left;
+margin-right:50px;
+width:500px
+}
+
+#container div.post {
+margin-bottom:15px;
+padding-bottom:25px
+}
+
+#container div.post div.entry {
+background:url(images/hr.jpg) top center no-repeat;
+padding-top:15px
+}
+
+#container div.post div.entry ul li {
+list-style:disc;
+margin:5px 0 5px 30px
+}
+
+#container div.post div.entry ol li {
+list-style:decimal;
+margin:5px 0 5px 30px
+}
+
+#container div.post div.entry div.postmetadata {
+color:#a00;
+font-size:75%;
+padding-top:10px
+}
+
+#container div.post div.entry div.postmetadata a {
+border-bottom:1px solid;
+color:#CF7474
+}
+
+#container div.post div.entry div.postmetadata a:hover {
+border-bottom:1px solid;
+color:#a00
+}
+
+#container div.post div.entry div.postmetadata div {
+display:inline;
+height:30px;
+line-height:130%;
+margin-right:20px;
+padding-left:20px
+}
+
+#container div.post div.entry div.postmetadata div.small-readmore {
+background:url(images/small-readmore.gif) left no-repeat
+}
+
+#container div.post div.entry div.postmetadata div.small-tags {
+background:url(images/small-tags.gif) left no-repeat
+}
+
+#container div.post div.entry div.postmetadata div.small-comments {
+background:url(images/small-comment.gif) left no-repeat
+}
+
+#container div.post p {
+color:#555;
+font-size:90%;
+line-height:130%;
+margin:10px 0;
+text-align:justify
+}
+
+#container div.post p a {
+border-bottom:1px solid;
+color:#000;
+text-decoration:none
+}
+
+#container div.post p a:hover {
+border-bottom:1px solid;
+color:#a00;
+text-decoration:none
+}
+
+#container div.post h2 a {
+color:#222;
+font-size:110%;
+font-style:normal;
+letter-spacing:-0.03em;
+margin:0;
+text-align:center;
+text-decoration:none
+}
+
+#container div.post div.entry h3 {
+font-size:110%;
+text-decoration:underline
+}
+
+h3#comments,h3#respond {
+color:#222;
+font-size:170%;
+font-style:normal;
+letter-spacing:-0.03em;
+text-align:center;
+text-decoration:none
+}
+
+h3#comments a:hover {
+border-bottom:1px solid
+}
+
+#container div.post h2 {
+font-size:155%;
+font-style:italic;
+letter-spacing:-0.03em;
+margin-top:20px;
+text-align:center
+}
+
+#container div.post h2 a:hover {
+border-bottom:1px solid;
+color:#a00
+}
+
+#container div.post small.author {
+color:#ccc;
+display:block;
+font-size:10px;
+margin:7px 0;
+text-align:center;
+width:100%
+}
+
+#container div.post small.author a:hover {
+color:#A00
+}
+
+#sidebar {
+float:right;
+margin-top:20px;
+width:200px
+}
+
+#sidebar ul li {
+list-style:none
+}
+
+#sidebar ul li h3 {
+color:#222;
+font-size:140%;
+font-style:italic;
+text-align:center
+}
+
+#sidebar ul li ul {
+background:#FFEFEF;
+margin:5px 0 20px
+}
+
+#sidebar ul li ul li {
+font-size:90%;
+text-align:justify
+}
+
+#sidebar ul li ul li a {
+color:#222;
+display:block;
+height:1%;
+padding:4px 0 4px 7px
+}
+
+#sidebar ul li ul li a:hover {
+background:#FFCFCF;
+text-decoration:underline
+}
+
+.comments-template a:hover {
+text-decoration:none !important
+}
+
+.commentlist .time {
+background:url(images/bg_clock.gif) no-repeat 1px;
+padding-left:15px
+}
+
+.commentlist .author {
+font:110% Georgia, "Times New Roman", Times, serif;
+letter-spacing:0.1px;
+text-decoration:underline;
+word-spacing:1px
+}
+
+cite {
+background:#FFEFEF;
+border-bottom:1px solid #a00;
+display:block;
+margin-bottom:5px;
+padding:5px;
+width:100%
+}
+
+.commentlist .author a:hover {
+border:0;
+text-decoration:none !important
+}
+
+.comments-template {
+margin-top:20px;
+padding:0 15px 0 0;
+width:100%
+}
+
+.comments-template ul,.comments-template ul li {
+list-style:none;
+margin-top:15px;
+width:100%
+}
+
+.comments-template ul li {
+clear:both;
+display:block;
+width:100%
+}
+
+.commenttext {
+color:#333;
+float:right;
+line-height:20px;
+padding:10px 0;
+width:100%
+}
+
+.commenttext p {
+margin:10px 0
+}
+
+.comments-info {
+font-size:95%;
+margin-bottom:10px
+}
+
+.comments-info a {
+color:#222
+}
+
+.comments-template form {
+margin-top:20px
+}
+
+.comments-template textarea {
+background:#fff;
+border:1px solid #a00;
+font-size:100%;
+padding:5px;
+width:425px
+}
+
+.comments-template input {
+background:#fff;
+border:1px solid #a00;
+margin:0 10px 6px 0;
+padding:5px;
+width:50%
+}
+
+.comments-template p input:focus,.comments-template p textarea:focus {
+background:#FFCFCF
+}
+
+.comments-template input#submit {
+margin:6px 0 0
+}
+
+.commentlist a,.comments-template a {
+color:#555
+}
+
+#footer {
+border-top:1px solid #a00;
+clear:both;
+display:block;
+font-size:90%;
+height:50px;
+padding-top:40px;
+text-align:left;
+width:100%
+}
+
+#footer a {
+border-bottom:1px solid;
+color:#333
+}
+
+#footer p.copy {
+float:left;
+width:80%
+}
+
+#footer p.top {
+float:right;
+padding-right:20px
+}
+
+img.centered {
+display:block;
+margin-left:auto;
+margin-right:auto
+}
+
+img.alignright {
+display:inline;
+margin:0 0 2px 7px;
+padding:4px
+}
+
+img.alignleft {
+display:inline;
+margin:0 7px 2px 0;
+padding:4px
+}
+
+.aligncenter {
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+.alignleft {
+float: left
+}
+
+.alignright {
+float: right
+}
+
+#container div.post p img,#footer a:hover {
+border:0
+}
+
+h3#comments a,.commentlist .author a {
+color:#000
+}
+
+#container div.post small.author span.date,#container div.post small.author a {
+color:#999
+}
+
+form#searchform input{
+border:1px solid;
+background:#fff;
+border-color:#D4D4D4 #EBEBEB #EBEBEB #D4D4D4;
+padding:3px;
+width:125px
+}
+form#searchform input#searchsubmit{
+margin:5px 0 20px 0;
+padding:2px 3px;
+width:60px
+}
