@@ -4,6 +4,20 @@ use strict;
 use warnings;
 
 use Moose;
+use Moose::Util::TypeConstraints;
+use DateTime;
+use DateTime::Format::Strptime;
+
+subtype 'Wasted::Date',
+  as 'DateTime';
+
+coerce 'Wasted::Date',
+  from 'Str',
+  via {
+    DateTime::Format::Strptime->new(
+      pattern => '%Y-%m-%d',
+    )->parse_datetime($_);
+  };
 
 has [qw(title text commentary)] => (
   is => 'ro',
@@ -12,8 +26,9 @@ has [qw(title text commentary)] => (
 
 has date => (
   is => 'ro',
-  isa => 'Str',
+  isa => 'Wasted::Date',
   required => 0,
+  coerce => 1,
 );
 
 sub new_from_file {
@@ -61,6 +76,12 @@ sub slug {
   $slug =~ s/\s+/-/g;
 
   return $slug;
+}
+
+sub path {
+  my $self = shift;
+
+  return join '/', $self->date->strftime('%Y/%m'), $self->slug;
 }
 
 1;
