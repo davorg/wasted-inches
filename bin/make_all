@@ -1,0 +1,24 @@
+#!/user/bin/perl
+
+use strict;
+use warnings;
+
+use Template;
+use Wasted::Posts;
+
+my $dir = shift;
+
+my $posts = Wasted::Posts->new(dir => $dir) or die;
+
+my $tt = Template->new(
+  INCLUDE_PATH => 'tt',
+  OUTPUT_PATH  => 'out',
+);
+
+for my $post (@{ $posts->posts }) {
+  $tt->process(
+    'post.tt',
+    { post => $post },
+    $post->path . '/index.html',
+  ) or die $tt->error;
+}
