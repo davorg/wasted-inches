@@ -1,0 +1,16 @@
+---
+title: Golden Jubilee
+date: 2002-06-05
+categories:
+---
+
+We know that the Queen's Golden Jubilee is important and we certainly wouldn't
+suggest for a moment that it's not news. But does there need to be
+*quite* so much coverage. On every front page. For four days.
+
+***
+
+Seems like only yesterday that the tabloids were full of Jubilee nonsense.
+Oh wait, it was. If anything the coverage of the Diamond Jubilee is even more
+incessant than it was for the Golden Jubilee. So this story could easily be
+reused word for word today.

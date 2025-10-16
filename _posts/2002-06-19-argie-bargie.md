@@ -1,0 +1,21 @@
+---
+title: Argie-Bargie
+date: 2002-06-19
+categories:
+---
+
+England won their game and are thru to the next round of the World Cup.
+Predictably this was all over the tabloid front pages. We  understand that
+they should be reporting it, but should they really make it sound like
+there's a war on?
+
+The *Mirror* was particularly objectionable with its jingoistic
+knocking of the Argentinian team.
+
+***
+
+I remember this being ludicrous. It was twenty years after the Falklands War
+and yet the tabloids covered this story as if the war was still going on. And
+ten years on I can't say that this has got any better. The tabloids still
+treat Argentina as though it's an enemy nation. It's just like the way the
+Germans were portrayed as I was growing up in the 60s and 70s.

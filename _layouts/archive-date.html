@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="archive">
+  <h1 class="post-title">
+    {% if page.type == "year" %}{{ page.date | date: "%Y" }}
+    {% elsif page.type == "month" %}{{ page.date | date: "%B %Y" }}
+    {% else %}Archive{% endif %}
+  </h1>
+
+  <ul class="post-list">
+    {% assign items = page.docs | default: page.posts %}
+    {% for post in items %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</article>
+

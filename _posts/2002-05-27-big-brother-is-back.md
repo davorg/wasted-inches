@@ -1,0 +1,29 @@
+---
+title: Big Brother Is Back
+date: 2002-05-27
+categories:
+---
+
+The third series of Big Brother started over the weekend. This is a godsend for
+lazy tabloid journalists. All they have to do is sit watching E4 all day and
+they can print stories about a group of complete nobodies who the public have
+suddenly become completely interested in. It's interesting to compare the
+different approaches that different tabloids take – the Star and the Sport
+will just be printing as many nude pictures of the women in the house as they
+can find, and on the other hand, the Mirror has declared itself the
+"anti-Big Brother" paper and fills it's pages with stories of how dire the
+contestants are. Here at "Wasted Inches" we love Big Brother, but we really
+can't see how it should be front page news. Every day. For the next nine weeks.
+
+***
+
+This seems dated now. It's hard to believe that
+[*Big Brother*](https://en.wikipedia.org/wiki/Big_Brother_%28UK%29)
+was ever that popular. It's been five years since anyone really took any notice
+of it. Channel Four attempted to put the show out of its misery a couple of
+years ago, but Channel Five picked it up and has been running it into the
+ground ever since. As this story says, ten years ago there would be Big Brother
+stories on the front page of just about every tabloid for the duration of the
+show. Last summer I don't remember seeing a single front page story. And I'm
+embarrassed that I admitted to loving Big Brother. The interest soon wore off.
+I don't think I've watched an episode since Big Brother 7 in 2006.

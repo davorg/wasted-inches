@@ -1,0 +1,26 @@
+<!-- Google Fonts for tabloid look -->
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Merriweather:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+
+{% if site.google_analytics_ga4 %}
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_ga4 }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    // (Optional) basic consent defaults — adjust to your needs
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied'
+    });
+
+    gtag('js', new Date());
+
+    // Send page_view with explicit location/path (helpful on static sites)
+    gtag('config', '{{ site.google_analytics_ga4 }}', {
+      'page_location': '{{ site.url }}{{ page.url | relative_url }}',
+      'page_path': '{{ page.url | relative_url }}'
+    });
+  </script>
+{% endif %}
+

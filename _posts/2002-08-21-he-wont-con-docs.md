@@ -1,0 +1,21 @@
+---
+title: "He Won't Con Docs"
+date: 2002-08-21
+categories:
+---
+
+What the *Sun* headline writers are trying to say (in their stumbling,
+and very nearly English, way) is that Ian Huntley, the man charged with the
+murders of schoolgirls Holly and Jessica, won't be able to convince the doctors
+at Rampton that he is mentally ill and thereby escape trial. As always, the
+*Sun* doesn't let inconvenient facts get in the way of a good story.
+In this case they ignore the fact that either Huntley *is* mentally
+ill, in which case no conning will be required, or he isn't, in which case he
+has already managed to con some doctors in order to be sent to Rampton in the
+first place. Logic was never the *Sun*‘s strong point.
+
+***
+
+It turned out that Huntley wasn't considered mentally ill. He was convicted
+of the murder of the two girls and is currently ten years into a life sentence.
+He will not be released until he has served at least forty years.

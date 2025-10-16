@@ -1,0 +1,26 @@
+---
+title: 'Why Art Thou Romeo?'
+date: 2002-09-02
+categories:
+---
+
+It must be a good headline as both the *Sun* and the *Mirror<*
+came up with it independently. The story is, of course, the birth of a second
+son to a bad singer and a sportsman. The bit that apparently makes this news
+(tho' we strongly suspect it would have made the front pages even if he'd
+been called "Fred") is that they've chosen the name "Romeo". And, according
+to the tabloids, this has confused the fans. It also gives the tabloid hacks
+a chance to show off their education by paraphrasing Shakespeare. With the
+Earth Summit going on in South Africa and the US once again rattling its
+sabre at Iraq, it's difficult to see this as the most important news of the
+day, but then we don't run the tabloids. Here at ***Wasted Inches*** we
+hanker for the days when this would have been a small announcement in the
+personal columns of *The Times*.
+
+***
+
+The Beckhams had one more child and named him "Cruz". Their skills at choosing
+names led comedian Stuart Francis to comment "You know who really gives kids
+a bad name? Posh and Becks." TV viewers judged this to be the
+[funniest joke](https://www.bbc.co.uk/news/entertainment-arts-19338273")
+at the Edinburgh Fringe Festival in 2012.

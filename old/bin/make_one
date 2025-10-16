@@ -1,0 +1,22 @@
+#!/user/bin/perl
+
+use strict;
+use warnings;
+
+use Template;
+use Wasted::Post;
+
+my $file = shift;
+
+my $post = Wasted::Post->new_from_file($file) or die;
+
+my $tt = Template->new(
+  INCLUDE_PATH => 'tt',
+  OUTPUT_PATH  => 'out',
+);
+
+$tt->process(
+  'post.tt',
+  { post => $post },
+  $post->slug . '.html',
+) or die $tt->error;
