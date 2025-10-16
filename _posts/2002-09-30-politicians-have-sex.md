@@ -1,0 +1,25 @@
+---
+title: Politicians Have Sex
+date: 2002-09-30
+categories:
+---
+
+There are some big stories around today – the opening of the Labour Party
+Conference and the US still trying to find a good excuse to attack Iraq are
+two good examples. But all of the tabloids ignore all of that and present us
+with news that would have been pointless even when it was current (in the
+mid 1980s). Anyone would think the editors are being told what to print by
+the Labour Party spin doctors in order to minimise the amount of coverage
+that the Party Conference is getting.
+
+***
+
+This was the story about Edwina Currie and John Major. Ten years on, I still
+don't want to think about that.
+
+And at that point, Wasted Inches finishes. I can't remember why I stopped it.
+I know I'd started [another blog](https://blog.dave.org.uk/) which
+became the main place where I wrote. But it never really covered the tabloids
+in the way that Wasted Inches did. These days, of course, we have many
+excellent blogs which spend their time pointing out the nonsense that the
+tabloids print. I hope they keep going as long as the tabloids do.

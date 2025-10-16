@@ -1,0 +1,108 @@
+---
+---
+
+@import "minima";
+
+/* ====== Red-top header (bigger masthead) ====== */
+.site-header {
+  background: #cc0000;
+  border: 0;
+  box-shadow: inset 0 -4px 0 #990000;
+  padding: 0.5rem 0 0.75rem; /* a bit taller to fit the big title */
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: flex-end;
+  gap: 1.5rem;
+  flex-wrap: wrap; /* nav drops under the title on small screens */
+}
+
+.site-title, .site-title:visited {
+  color: #fff !important;
+  font-family: "Anton", Impact, "Arial Black", sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+
+  /* ~3× bigger than Minima default, with responsive clamp */
+  font-size: clamp(2.25rem, 8vw, 4.75rem); /* ≈36px → up to ~76px */
+  line-height: 0.95;
+  margin: 0;
+}
+
+.site-nav {
+  margin-left: auto; /* keep nav to the right when space allows */
+}
+.site-nav .page-link {
+  color: #fff !important;
+  font-weight: 700;
+}
+.site-nav .page-link:hover { opacity: 0.85; }
+
+
+/* ====== Headlines: ALL CAPS ====== */
+.post-title,
+.post-list .post-link,
+h1, h2, h3 {
+  font-family: "Anton", Impact, "Arial Black", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  line-height: 1.1;
+}
+
+/* Keep dates/metadata readable */
+.post-meta { text-transform: none; }
+
+/* ====== Body: serif ====== */
+.post-content,                       /* post body */
+.page-content,                       /* page body */
+.post-content p,
+.page-content p {
+  font-family: "Merriweather", Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+/* Make links in posts look like news copy */
+.post-content a { text-decoration: underline; }
+
+/* Optional: bigger post list spacing for drama */
+.post-list > li { margin-bottom: 1.75rem; }
+
+/* ===== Afterword (post-hr content) ===== */
+.afterword-divider {
+  border: 0;
+  border-top: 8px double #111;
+  margin: 2rem 0 1rem;
+  position: relative;
+}
+
+/* Label on the divider */
+.afterword-divider::after {
+  content: "2012 Update:";
+  position: absolute;
+  top: -0.9rem;
+  left: 0;
+  padding: 0 .5rem;
+  background: #fff;
+  font-family: "Anton", Impact, "Arial Black", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: .06em;
+}
+
+.afterword {
+  background: #fff7f5;             /* subtle newsprint tint */
+  border-left: 8px solid #cc0000;   /* red-top accent */
+  padding: 1rem 1rem 1rem 1.25rem;
+  margin: 0 0 2rem 0;
+  font-family: "Merriweather", Georgia, "Times New Roman", serif;
+  line-height: 1.75;
+}
+
+.afterword :is(h2,h3,h4) {
+  font-family: "Anton", Impact, "Arial Black", sans-serif;
+  text-transform: uppercase;
+  margin-top: .5rem;
+}
+

@@ -1,0 +1,22 @@
+---
+title: More World Cup Nonsense
+date: 2002-06-11
+categories:
+---
+
+We're getting pretty immune to the constant stories about the world cup, but
+we were particularly impressed with the hyperbole on the front page of today's
+*Soaraway Sun*. Apparently the *whole* of the UK will be up
+early tomorrow to watch another England game. Sorry to disappoint them but we
+know of a number of people who would rather stay in bed.
+
+***
+
+This doesn't change. Tabloids still routinely lie about the number of people
+who are interested in the stories they peddle. We've seen this recently with
+the Diamond Jubilee (the whole country celebrated the Queen's reign) and no
+doubt there will be plenty of similar stories based on Euro 2012 which started
+over the weekend (everyone will be cheering on England). In reality, the TV
+viewing figures tell a completely different story. I'll admit that a large
+proportion of the population will watch this stuff. But it's nowhere near
+"everyone".

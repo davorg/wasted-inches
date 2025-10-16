@@ -1,0 +1,52 @@
+title: Wasted Inches
+description: Reading the tabloids so you don't have to
+url: "https://wasted.dave.org.uk"
+baseurl: ""      # set later if you deploy under a subpath
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Nice permalinks for posts
+permalink: /:year/:month/:day/:title/
+
+google_analytics_ga4: G-WN2MMH58R7   # your Measurement ID
+
+# Default layouts so you don't have to add front matter everywhere
+defaults:
+  - scope:
+      path: ""        # all files
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""        # all files not in _posts (e.g. pages like credits/)
+    values:
+      layout: page
+
+minima:
+  nav_links:
+    - title: "Home"
+      url: /
+    - title: "Why are they famous?"
+      url: /why-are-they-famous/
+    - title: "The tabloids"
+      url: /the-tabloids/
+    - title: "Credits"
+      url: /credits/
+
+jekyll-archives:
+  layout: archive-date
+  enabled:
+    - year
+    - month
+    - day
+  permalinks:
+    year: /:year/
+    month: /:year/:month/
+    day: /:year/:month/:day/
+
+exclude:
+  - old/

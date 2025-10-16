@@ -1,0 +1,23 @@
+---
+title: "'Celeb' Attempts Seduction Of Other 'Celeb'"
+date: 2002-09-06
+categories:
+---
+
+Deep in the Australian jungle (well not that deep as a 5-star hotel is only 5
+minutes walk away) eight British C-list celebrities have been camping for two
+weeks. It's been great TV, but it's certainly not news. However the tabloids
+have all had it on their front pages every day. Today they were full of the
+story of how Tara Palmer-Tomkinson (who is she anyway, and why is she famous?)
+tried seducing Darren Day (the 'popular' singer) by grabbing his hand and
+putting it in her pants (whilst she was wearing them). And the tabloid editors
+think this is important enough to go on the front page. On a day when car
+bombs had been exploding in Kabul.
+
+***
+
+Ten years on, "I'm A Celebrity…" is still running. And the tabloids still run
+stories about it in preference to real news. It has, however, moved to later
+in the year so the 2012 series hasn't started yet. I have no idea whether
+Palmer-Tomkinson and Day's relationship ever took off (and I'm confident that
+you don't care). NATO troops are still on the streets of Kabul.
