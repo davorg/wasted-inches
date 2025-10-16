@@ -1,0 +1,14 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler
+vendor/bundle/
+
+# OS/editor odds and ends
+.DS_Store
+Thumbs.db
+*.swp
+
