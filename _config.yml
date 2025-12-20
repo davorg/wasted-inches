@@ -10,7 +10,7 @@ plugins:
   - jekyll-archives
 
 # Nice permalinks for posts
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:title/
 
 google_analytics_ga4: G-WN2MMH58R7   # your Measurement ID
 
